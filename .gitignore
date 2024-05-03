@@ -1,0 +1,7 @@
+cb
+*.out
+*.log
+*.o
+.vscode/*
+test_generator/*.in
+test_generator/test_generator
